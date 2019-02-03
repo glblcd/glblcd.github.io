@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+	<!-- Hero(extended) navbar -->
+	<div class="navbar navbar--extended">
+		<nav class="nav__mobile"></nav>
+		<div class="container">
+			{% include navbar-inner.html %}
+		</div>
+	</div>
+
+	{{ content }}
+
+  {% include footer-dark.html %}
+
+	{% include scripts.html %}
+</body>
+
+</html>
