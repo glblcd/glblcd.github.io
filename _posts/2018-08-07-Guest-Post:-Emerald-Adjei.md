@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Guest Post: Emerald Adjei"
-date:   2018-07-17 17:26:04 +0000
-categories: jekyll update
+date:   2018-08-07 17:26:04 +0000
+
 ---
 I missed about five calls. I almost missed the opportunity to meet amazing people. I had seen the number calling countless times but I told myself I can’t pick that call, cos I was ‘busy’.
 

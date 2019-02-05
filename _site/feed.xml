@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-03T19:25:27+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Guest Post: Emerald Adjei</title><link href="http://localhost:4000/jekyll/update/2018/07/17/Guest-Post-Emerald-Adjei.html" rel="alternate" type="text/html" title="Guest Post: Emerald Adjei" /><published>2018-07-17T17:26:04+00:00</published><updated>2018-07-17T17:26:04+00:00</updated><id>http://localhost:4000/jekyll/update/2018/07/17/Guest-Post:-Emerald-Adjei</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/07/17/Guest-Post-Emerald-Adjei.html">&lt;p&gt;I missed about five calls. I almost missed the opportunity to meet amazing people. I had seen the number calling countless times but I told myself I can’t pick that call, cos I was ‘busy’.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-05T19:13:55+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Guest Post: Miriam Darteh</title><link href="http://localhost:4000/2018/08/17/Guest-Post-Miriam-Darteh.html" rel="alternate" type="text/html" title="Guest Post: Miriam Darteh" /><published>2018-08-17T17:26:04+00:00</published><updated>2018-08-17T17:26:04+00:00</updated><id>http://localhost:4000/2018/08/17/Guest-Post:-Miriam-Darteh</id><content type="html" xml:base="http://localhost:4000/2018/08/17/Guest-Post-Miriam-Darteh.html">&lt;p&gt;Roses are red, lilies are white, and so is Global Code perfectly fit for summer.&lt;/p&gt;
+
+&lt;p&gt;When we talk about summer, the beaches, the movies, your  bed and so many relaxing moments come in mind but with my experience here at global code, Global Code should be made a prerequisite for any one who wants to learn IT.&lt;/p&gt;
+
+&lt;p&gt;I heard about this camp via an IT WhatsApp thread and I applied, I hadn’t seen a raspberry pi before and I was very intrigued that I was going to see and own one.&lt;/p&gt;
+
+&lt;p&gt;The Camp was for three weeks and everyday was enlightening, I was getting a deeper understanding to things I was introduced to in school. Our Tutor, Ben was just amazing and magical, topics that needed to take a whole semester to teach, he took us through in the most simplest precise way. Even though it was a fast track learning process, I was able to understand every single bit.&lt;/p&gt;
+
+&lt;p&gt;The very first thing I learnt was that my body had a lot electrons so in order not to damage the pi I had to neutralize the electrons ( I don’t know if that’s the term I’m an arts student not a science geek, lol! ) by placing my fingers on a metal surface.&lt;/p&gt;
+
+&lt;p&gt;Ben helped me set up my raspberry pi and we connected it to the computer, we used a Linux OS which was my first. We learnt a lot about Linux and its terminal, I think my favorite command line syntax is sudo, Sudo makes you the King with all the rights and it’s just fun.&lt;/p&gt;
+
+&lt;p&gt;We were made to create Git accounts, I had a Git account already but I hadn’t done a lot of things with it. At the end of Global Code I learnt so much about how helpful Git is. I learnt how to fork, clone and send pull requests, my favorite was to commit from my terminal. I think Git makes the world of programming an easy place.&lt;/p&gt;
+
+&lt;p&gt;We learnt a lot about Python, Html, CSS,  APIs , GPIOs , IoTs among others  which if I decide to write about you would have to drink couple cups of coffee to stay awake and read.&lt;/p&gt;
+
+&lt;p&gt;I had three amazing moments:&lt;/p&gt;
+
+&lt;p&gt;The first was when I made a desktop weather app with a Weather API and Tkinter, it was superb.&lt;/p&gt;
+
+&lt;p&gt;My second amazing moment was with the MQTT affectionately called the mosquito, we were able to communicate on one terminal on our various computers using the mosquito.&lt;/p&gt;
+
+&lt;p&gt;My third amazing moment was when we used the raspberry pi and the board with the led lights to create amazing things.&lt;/p&gt;
+
+&lt;p&gt;The final aspect of the camp was the Project. We had to be in a group of three and come up with a project. My group made a task management app with an inbuilt forum to help the next global coders keep track of their progress and ask any questions they wanted to ask on the same platform. So even when the camp ends they still would have a bite of the camp with them to take home.&lt;/p&gt;
+
+&lt;p&gt;One thing that Ben said during the camp that is staying with me is that programming is not all about coding but communicating and relating with others are as key as the codes themselves.&lt;/p&gt;
+
+&lt;p&gt;Global code is a candle in the dark and I hope it would be lit up in every city in my country.&lt;/p&gt;</content><author><name></name></author><summary type="html">Roses are red, lilies are white, and so is Global Code perfectly fit for summer.</summary></entry><entry><title type="html">Guest Post: Emerald Adjei</title><link href="http://localhost:4000/2018/08/07/Guest-Post-Emerald-Adjei.html" rel="alternate" type="text/html" title="Guest Post: Emerald Adjei" /><published>2018-08-07T17:26:04+00:00</published><updated>2018-08-07T17:26:04+00:00</updated><id>http://localhost:4000/2018/08/07/Guest-Post:-Emerald-Adjei</id><content type="html" xml:base="http://localhost:4000/2018/08/07/Guest-Post-Emerald-Adjei.html">&lt;p&gt;I missed about five calls. I almost missed the opportunity to meet amazing people. I had seen the number calling countless times but I told myself I can’t pick that call, cos I was ‘busy’.&lt;/p&gt;
 
 &lt;p&gt;The number kept calling so I decided to pick one evening. “Is this Emerald Adjei?”, the voice asked. I replied. “This is Ibrahim from Global Summer of Code, I was calling to confirm your attendance of the program and to find out if you would need accommodation. My huge eyes almost fell out of their sockets. I screamed. This was a free program and now free accommodation? Of course, count me in. 💪🏾&lt;/p&gt;
 
@@ -47,4 +75,352 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;We are so repeating this next year.&lt;/p&gt;</content><author><name></name></author><summary type="html">I missed about five calls. I almost missed the opportunity to meet amazing people. I had seen the number calling countless times but I told myself I can’t pick that call, cos I was ‘busy’.</summary></entry></feed>
+&lt;p&gt;We are so repeating this next year.&lt;/p&gt;</content><author><name></name></author><summary type="html">I missed about five calls. I almost missed the opportunity to meet amazing people. I had seen the number calling countless times but I told myself I can’t pick that call, cos I was ‘busy’.</summary></entry><entry><title type="html">2018 Program wrapup</title><link href="http://localhost:4000/2018/08/07/2018-program-wrapup.html" rel="alternate" type="text/html" title="2018 Program wrapup" /><published>2018-08-07T17:26:04+00:00</published><updated>2018-08-07T17:26:04+00:00</updated><id>http://localhost:4000/2018/08/07/2018-program-wrapup</id><content type="html" xml:base="http://localhost:4000/2018/08/07/2018-program-wrapup.html">&lt;p&gt;Congratulations to our 75 graduates!&lt;/p&gt;
+
+&lt;p&gt;The Second Global Code Summer Program closed today in Koforidua, Accra and Cape Coast. 75 students were taught by 13 volunteers over 3 weeks: Linux, Python programming, MQTT, electronics – with a bit of databases and Docker thrown in for good measure.&lt;/p&gt;
+
+&lt;p&gt;We’re all enormously proud of our students. Ghanaian men and women who have given up three weeks of their holidays to work with us, learn from us, and welcome us to their country. It’s truly humbling and we’re so grateful.&lt;/p&gt;
+
+&lt;p&gt;Thanks also to our university hosts at the Universities of Cape Coast and Ghana at Legon, and our home at Koforidua Technical University. Prof. LK Sam-Amoah, Dr. Francis Kumi, Dr Kofi Abeyi-Arthur, Dr. Henry Amankwah, Dr. Robert Sowah, Dr. Frank Dwomoh and Patricia – many thanks for your hospitality and support.&lt;/p&gt;
+
+&lt;p&gt;Thanks to our sponsors, Instil and Mallon Associates, for their material support.&lt;/p&gt;
+
+&lt;p&gt;We’re already making plans for next year! We’ll be hiring Ghanaian TAs, improving our instructor diversity, and expanding into another country. Please get in touch if you can help.&lt;/p&gt;
+
+&lt;p&gt;Finally, thanks to the 13 great folks who volunteered to come to Ghana and teach for Global Code. You’re an awesome team and I’m so proud to work with such wonderful friends!&lt;/p&gt;
+
+&lt;p&gt;Cheers&lt;/p&gt;
+
+&lt;p&gt;Sam&lt;/p&gt;</content><author><name></name></author><summary type="html">Congratulations to our 75 graduates!</summary></entry><entry><title type="html">First week: Done</title><link href="http://localhost:4000/2018/07/07/first-week-done.html" rel="alternate" type="text/html" title="First week: Done" /><published>2018-07-07T17:26:04+00:00</published><updated>2018-07-07T17:26:04+00:00</updated><id>http://localhost:4000/2018/07/07/first-week-done</id><content type="html" xml:base="http://localhost:4000/2018/07/07/first-week-done.html">&lt;p&gt;We’ve just finished week 1 of our Summer program here in Ghana, so it’s time to take stock and reflect on what we’ve achieved.&lt;/p&gt;
+
+&lt;h2 id=&quot;numbers&quot;&gt;Numbers&lt;/h2&gt;
+&lt;p&gt;Firstly, this program is much bigger than last year. Student numbers fluctuated in the first half of the week for a number of reasons: a public holiday on the Monday that we valiantly taught through; another Summer Camp that delayed the start of Global Code for some students, and a couple of no-shows who saw their friends having fun and came along on the Tuesday or Wednesday.&lt;/p&gt;
+
+&lt;p&gt;We aimed to accept 33 students for each site with a capacity of 30, to account for no-shows. In total this year we’ve got 75 students across three sites, with 13 women. I’m really pleased with this result and I think it reflects our determination to increase the visibility of Global Code in Ghana and particularly amongst female developers.&lt;/p&gt;
+
+&lt;p&gt;Last year we taught 18 students in total, two of whom were women. At the end of the program I declared a policy goal of 50% women in our program and took the following steps to met that goal:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Made it clear that the program ran until 4pm every day. It’s important to give clear working hours because quite often young women in Ghana have responsibilities at home.&lt;/li&gt;
+  &lt;li&gt;Asked our host universities to provide free accommodation to girls. We’ve been very clear about our commitment and we’re grateful to the faculties at the University of Cape Coast, the University of Ghana, and Koforidua Technical University for helping meet this aim.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Of course there’s more that we can do to reach our target of 50% women. Here are some thoughts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In one of our host universities there are only 8 women in the whole faculty, and 6 of them are on our program. We accepted all eight but two are committed to another program.&lt;/li&gt;
+  &lt;li&gt;This year we opened applications in late March, which is too late. For the 2019 program we’re planning to open applications later this year, in November 2018 before the Christmas holidays.&lt;/li&gt;
+  &lt;li&gt;This is our second year at Koforidua, the site which had the highest number of applications (65). We’ve got greater credibility there because the students and staff know our program and the great results we generate. We’re hoping to ‘bed in’ at UCC and UG in a similar manner, and receive more applications of greater quality next year.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;curriculum&quot;&gt;Curriculum&lt;/h2&gt;
+&lt;p&gt;In our 2017 program I taught on my own, and what gave me the greatest reward was building a curriculum on the fly, accounting for the knowledge, understanding and aptitude of the class that came on day 1. As a technologist and professional instructor it’s incredible to be able to balance the needs of a class with just the right amount of ‘stretch’, to push people beyond what they think they can achieve.&lt;/p&gt;
+
+&lt;p&gt;As we grew to three sites and I asked people to volunteer and come to Ghana to teach, I wanted to give those people the same feeling, and so whilst we’ve maintained a common thread (hardware basics, the Linux terminal, python, git), we’ve been careful not to define the order or depth in which those elements are taught: setting out a formal curriculum beforehand, particularly across three very different university groups, would be too brittle.&lt;/p&gt;
+
+&lt;p&gt;However, we have to be accountable – to our students, sponsors, donors and indeed to ourselves. Over the next year we’ll work to formalise our approach to teaching. I aim to adopt an “unconference” style, which allows for the instructor and the students to define their own curriculum, whilst maintaining some shared elements. Our desired output is incredible Software Engineers and I think the best way to do that is to support the volunteers that join our program with teaching materials and hardware, then trust them to deliver on our aims.&lt;/p&gt;
+
+&lt;h2 id=&quot;week-2&quot;&gt;Week 2&lt;/h2&gt;
+&lt;p&gt;We’ve started working with a local graphic designer on a contract basis to work on design elements for our program and our brand. It’s important we work with local staff, so our chief designer Anna has taken Jemimah on board and we’re looking forward to great things. I’m excited that we’re able to show our commitment to employing talented Ghanaians!&lt;/p&gt;
+
+&lt;p&gt;Our hardware supplier, Isaac, is just getting back from four days in Nigeria. We sponsored his trip to the Tony Elumelu Foundation event in Lagos, where he’s been conferencing and workshopping and networking. He’s hoping to expand his operations into Nigeria and we’re thrilled to be able to help.&lt;/p&gt;
+
+&lt;p&gt;Today we say thanks and goodbye to Massimo, one of our volunteers from Morgan Stanley, who’s been working hard at KTU – thanks Massimo!&lt;/p&gt;
+
+&lt;p&gt;…and we welcome Gjeta, Damask and James, so we only have to make one airport trip. Gjeta and Damask are taking a week’s holiday in Ghana with Stephen and Alex, who have been here working at UCC and UG. Our Summer program is becoming a cats-cradle of logistics and I’m grateful to Ibrahim for helping me keep track of things on the ground.&lt;/p&gt;
+
+&lt;p&gt;James is one of our charity trustees, and we’ve got a stack of meetings lined up to raise awareness of our operations, and to drum up support so we can grow.&lt;/p&gt;
+
+&lt;p&gt;In class, we’ll be using what we learned in week 1 and building on that to create some distributed systems with MQTT and hosting platforms like Heroku. We’ll be using the GPIO pins on our Raspberry Pis to introduce simple electronics, allowing us to build IoT systems including sensors and actuators. And towards the end of the week we’ll introduce our plan for week 3: projects.&lt;/p&gt;
+
+&lt;p&gt;Watch this space!&lt;/p&gt;
+
+&lt;p&gt;Sam&lt;/p&gt;</content><author><name></name></author><summary type="html">We’ve just finished week 1 of our Summer program here in Ghana, so it’s time to take stock and reflect on what we’ve achieved.</summary></entry><entry><title type="html">2018 Applications</title><link href="http://localhost:4000/2018/05/23/GC2018.html" rel="alternate" type="text/html" title="2018 Applications" /><published>2018-05-23T17:26:04+00:00</published><updated>2018-05-23T17:26:04+00:00</updated><id>http://localhost:4000/2018/05/23/GC2018</id><content type="html" xml:base="http://localhost:4000/2018/05/23/GC2018.html">&lt;p&gt;One week until the second Global Code Summer Program kicks off, and we’re making our final preparations to make sure it all goes smoothly!&lt;/p&gt;
+
+&lt;p&gt;Local GC staffer Ibrahim has been working closely with out university contacts at Koforidua Tech, Cape Coast and UG Legon to prep our teaching areas and staff accommodation,&lt;/p&gt;
+
+&lt;p&gt;Electronics supplier and Ghanaian entrepreneur Isaac Sesi has been instrumental in our hardware testing,&lt;/p&gt;
+
+&lt;p&gt;Designer-on-the-ground Jemimah has been working on our social media plan,&lt;/p&gt;
+
+&lt;p&gt;Our teaching staff has been heads-down in planning and building teaching materials,&lt;/p&gt;
+
+&lt;p&gt;And most importantly of all, NINETY Ghanaian students have been confirming their attendance and preparing for the summer camp!&lt;/p&gt;
+
+&lt;p&gt;You can keep track of our progress here on our blog, and on twitter &lt;a href=&quot;https://twitter.com/glblcd&quot; class=&quot;link&quot;&gt;@glblcd&lt;/a&gt; and Instagram &lt;a href=&quot;http://instagram.com/glblcd&quot; class=&quot;link&quot;&gt;@glblcd&lt;/a&gt;. DM or &lt;a href=&quot;mailto:sam@globalcode.org.uk&quot; class=&quot;link&quot;&gt;sam@globalcode.org.uk&lt;/a&gt; to help out!&lt;/p&gt;</content><author><name></name></author><summary type="html">One week until the second Global Code Summer Program kicks off, and we’re making our final preparations to make sure it all goes smoothly!</summary></entry><entry><title type="html">2018 Applications</title><link href="http://localhost:4000/2018/05/23/2018-applications.html" rel="alternate" type="text/html" title="2018 Applications" /><published>2018-05-23T17:26:04+00:00</published><updated>2018-05-23T17:26:04+00:00</updated><id>http://localhost:4000/2018/05/23/2018-applications</id><content type="html" xml:base="http://localhost:4000/2018/05/23/2018-applications.html">&lt;p&gt;Great news – applications for the Global Code Summer Program 2018 are open!&lt;/p&gt;
+
+&lt;p&gt;We’ll teach Linux on the Raspberry Pi, Python, internet and IoT technologies, and electronics. After the program finishes, we’ll give you the Raspberry Pi as a gift.&lt;/p&gt;
+
+&lt;p&gt;It’s a three week program running five days a week, from July 2-20. Class is from 9am-12pm and 1pm-4pm.&lt;/p&gt;
+
+&lt;p&gt;This is our second year, and we’re growing! This year, as well as KTU, we’ll be running the program at Cape Coast University and the University of Ghana!&lt;/p&gt;
+
+&lt;p&gt;Applications are welcome from all students at KTU, UCC and UG who will start their final year of a programming course in September. Female applicants will be given free accommodation on-campus, thanks to our university hosts. To apply, simply fill in the form here: &lt;a href=&quot;https://goo.gl/hiJg9S&quot; class=&quot;link&quot;&gt;https://goo.gl/hiJg9S&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For more information, contact &lt;a href=&quot;mailto:sam@globalcode.org.uk&quot; class=&quot;link&quot;&gt;sam@globalcode.org.uk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Great news – applications for the Global Code Summer Program 2018 are open!</summary></entry><entry><title type="html">Positive Changes</title><link href="http://localhost:4000/2018/05/20/positive-changes.html" rel="alternate" type="text/html" title="Positive Changes" /><published>2018-05-20T17:26:04+00:00</published><updated>2018-05-20T17:26:04+00:00</updated><id>http://localhost:4000/2018/05/20/positive-changes</id><content type="html" xml:base="http://localhost:4000/2018/05/20/positive-changes.html">&lt;p&gt;Last year we taught 18 students, only two of whom were women. Our aim is 50% so that was pretty bad. But I think that if you’ve got the right attitude and you’re honestly trying hard to do the right thing, a setback like this shouldn’t stop you from moving forward.&lt;/p&gt;
+
+&lt;p&gt;In other words, we ran the 2017 Global Code program knowing we’d have to work harder next year, which is where we are.&lt;/p&gt;
+
+&lt;p&gt;In 2017 we accepted 8 women (all the female applicants) to the program. On day 1 only two of them turned up. I asked Josh to approach the others and ask if they’d consider joining class, but none did.&lt;/p&gt;
+
+&lt;p&gt;After the program ended, I asked Josh to approach those applicants again and see if there was anything about the program we could change to make it more appealing to women: to carefully find out if we’d done anything wrong.&lt;/p&gt;
+
+&lt;p&gt;The answers can be grouped into three:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The applicants had chores at home that couldn’t be left undone.&lt;/li&gt;
+  &lt;li&gt;The applicants weren’t sure what time of day the program would be running.&lt;/li&gt;
+  &lt;li&gt;The applicants weren’t sure they could find safe accommodation for the program.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ultimately, there’s not a lot we can do about the first issue. People have responsibilities and were asking for a commitment to fifteen days of a students summer holidays; that’s a big ask.&lt;/p&gt;
+
+&lt;p&gt;The second issue is easy to fix: we put the class times on our advertising. We work 9-12 and 1-4. We don’t let anyone stay in class over lunch or after the end of the day, so people are free to leave and there’s no preferential treatment for those whose schedules are more flexible. And we don’t assign homework.&lt;/p&gt;
+
+&lt;p&gt;Finally, to solve the third issue we approached our host universities and asked them to provide free on campus accommodation for our female students. I’m very grateful that they all graciously accepted, and I’d like to thank the faculty of KTU, UCC and UG for so kindly accommodating (literally!) our female applicants.&lt;/p&gt;
+
+&lt;p&gt;Applications are still coming in and we hope that 2018 is our first program with gender parity amongst our students.&lt;/p&gt;
+
+&lt;p&gt;Issues we’re still working on:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Currently 25% of our volunteer staff are women. We’re actively recruiting women and PoC staff for next year and working on funding their trip (~£2k each)&lt;/li&gt;
+  &lt;li&gt;Last year the tshirts we gave to students were pretty crummy. We’re working with a Ghanaian textiles importer to get good quality brandable apparel from a Californian supplier.&lt;/li&gt;
+  &lt;li&gt;I just bought 13 return flights to Ghana, I’m hoping to make Global Code carbon neutral in 2019&lt;/li&gt;
+  &lt;li&gt;We give each student a Raspberry Pi 3B to use in class and let them take it as a gift when the program is over. It’s got an HDMI port so not many of our students are able to use them at home – again, we checked. So next year I’m hoping to add an HDMI/VGA adapter to our hardware buy.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Last year we taught 18 students, only two of whom were women. Our aim is 50% so that was pretty bad. But I think that if you’ve got the right attitude and you’re honestly trying hard to do the right thing, a setback like this shouldn’t stop you from moving forward.</summary></entry><entry><title type="html">Guest Post: My Experience at the Global Code Summer Programme</title><link href="http://localhost:4000/2017/08/21/guest-post-my-experience-at-the-global-code-summer-program.html" rel="alternate" type="text/html" title="Guest Post: My Experience at the Global Code Summer Programme" /><published>2017-08-21T17:26:04+00:00</published><updated>2017-08-21T17:26:04+00:00</updated><id>http://localhost:4000/2017/08/21/guest-post-my-experience-at-the-global-code-summer-program</id><content type="html" xml:base="http://localhost:4000/2017/08/21/guest-post-my-experience-at-the-global-code-summer-program.html">&lt;p&gt;(Our first programme was called “IoT in Africa” In this post, Global Coder Synvalnus Gatorwu describes his experiences on our &lt;a href=&quot;/2017/08/03/summer-program-2017-done.html&quot; class=&quot;link&quot;&gt;2017 Summer Programme&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;It began as a whatsapp invite, and suddenly I felt an excitement to attend.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-first-impression&quot;&gt;My First Impression&lt;/h2&gt;
+&lt;p&gt;The impression I had upon entering the lab on a Monday morning was one of mixed feelings. I didn’t know what to expect. What I saw however raised my hopes that it was going to be practical, and not one of those talk shops.&lt;/p&gt;
+
+&lt;p&gt;As a science student during my O’level and A’level days, the lab is not a strange place to me, but an IT lab certainly is.&lt;/p&gt;
+
+&lt;p&gt;The next observation I made was our tutor. He was a British and obviously an experienced IT personality. I concluded that the next three weeks was going to be one of those serious intellectual times in my life, and I wasn’t wrong, it was a life changing one.&lt;/p&gt;
+
+&lt;p&gt;Initially, I had just come on the first day to see if this was something worth my time. After what I saw upon entering the lab, I changed my status to one of “I am really going to cancel all appointments and devote these three weeks to this”&lt;/p&gt;
+
+&lt;p&gt;This is how Rexford Nkansah, a web developer who was with us described Sam Moorhouse, our tutor:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Instructor Sam Moorhouse, the instructor for the 3-week summer program is an industry expert experienced in working on real-world applications using battle-tested platforms and or tools in real-world organizations.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Although his experience and knowledge are deep, Sam’s teaching skills allow him to draw the students out into the bare open with simple-to- understand expressions and explanations. I personally enjoyed his lectures and hands-on assistance.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For me, in one sentence, he is an experienced teacher who knows how to teach the most complex of things in the simplest of ways.&lt;/p&gt;
+
+&lt;h2 id=&quot;week-one&quot;&gt;Week One.&lt;/h2&gt;
+&lt;p&gt;The first week of the program was exciting. We were introduced to intriguing subjects that got the entire class yearning for more. For someone like me, it was an eye-opener to be introduced to Internet of things, the Raspberry Pi, and more.&lt;/p&gt;
+
+&lt;p&gt;We started with the basics of Python, linux, went through a bit computing and networking fundamentals, using the Raspberry Pi, and IoT programming using programmable web and the particle IoT platform. All these are were new to me, and as a broadcast journalist, a statistics graduate and public health student, I asked myself “how come I didn’t know all these”&lt;/p&gt;
+
+&lt;p&gt;The entire program was so practical, there was hardly any lesson that didn’t involve hands-on, we got to apply everything we studied, and immediately appreciated their use in the real world.&lt;/p&gt;
+
+&lt;p&gt;The biggest surprise was the introduction to the Raspberry Pi, which I hadn’t seen before, its usage was an eye opener.&lt;/p&gt;
+
+&lt;h2 id=&quot;week-two&quot;&gt;Week two&lt;/h2&gt;
+&lt;p&gt;Began with another exciting Monday as we were informed of our trip to Accra on Thursday. Flask, was our first lesson in week two, and I was so elated to have seen how it works.&lt;/p&gt;
+
+&lt;p&gt;Heroku as another joy as we deployed the application and saw it work. The MQTT was also a delight to operate.&lt;/p&gt;
+
+&lt;p&gt;Need I state that, these are all new to me, unlike some of the students who already know of some of these, for me, it was a joy because I had not heard of these before.&lt;/p&gt;
+
+&lt;p&gt;Git and Github become a sensation among all the students. ‘git add’, ‘git commit’, and ‘git push’ probably will be the last any student of the program would forget. These terms became the mantra of the entire program.&lt;/p&gt;
+
+&lt;p&gt;Behold, it was Thursday, and time for the trip.&lt;/p&gt;
+
+&lt;p&gt;I had to finish up a meeting at the National Communications Authority Head office, yet I
+couldn’t miss such a glorious opportunity to see real software engineers at work. I dashed to Accra by 5am, got my work done with the officer, and met up with the team.&lt;/p&gt;
+
+&lt;p&gt;My first reaction was to bring my journalistic prowess by interviewing Joshua Kumi, the brain behind Tech Leads and Sam’s man on the ground. The interview was live on facebook.&lt;/p&gt;
+
+&lt;p&gt;I was yet to appreciate the beauty of the IoT in Africa and Tech Leads T-Shirts, when I saw students in the bus, it was such a beauty.&lt;/p&gt;
+
+&lt;p&gt;Our first stop was at Rancard.&lt;/p&gt;
+
+&lt;p&gt;For me, it was like magic, starting from Ghana, they have spread their tentacles across the globe. And it was time for me to ask questions on how it was done, making it possible for text messages to be sent across platforms in real time, and the volume of it was amazing.&lt;/p&gt;
+
+&lt;p&gt;The “control room” my own term to describe where their work was being monitored was
+awesome. At least, it demystified my thinking on how this “magic” works.&lt;/p&gt;
+
+&lt;p&gt;Our next stop was at hubtel&lt;/p&gt;
+
+&lt;p&gt;I must say, we had a lot of detail in hubtel because the presentations were a number, and then we had the opportunity to be taken round their various departments, unlike rancard where we were a bit restricted, hubtel gave us a treat, and for the first time, I saw computers with such giant screens.&lt;/p&gt;
+
+&lt;p&gt;We interacted with some of the engineers who were busily “coding” and who left their work to interact with us. I couldn’t resist the temptation of touching the screens to have a feel. I, for the first time, saw how and where phone applications are tested before released into the market.&lt;/p&gt;
+
+&lt;p&gt;I must confess, some of the terminologies used were new to me, and as a journalist, I came home to do a lot of homework.&lt;/p&gt;
+
+&lt;p&gt;Just before we left, we were showed the only laptop that was used to start the company an old dell computer. Lesson, little beginnings can lead to great ends if only one doesn’t give up.&lt;/p&gt;
+
+&lt;p&gt;The icing on the cake for me was a student from a country in the western world who had come to do internship, and to think that Ghana would have a company that would attract such was for me very hopeful of Africa’s potential.&lt;/p&gt;
+
+&lt;p&gt;On the Friday of the second week, Sam Moorhouse led us to choose our projects.&lt;/p&gt;
+
+&lt;p&gt;This was the most exciting time of the week, we all went home thinking and dreaming of our projects.&lt;/p&gt;
+
+&lt;p&gt;The week was an excited one as we all completed our projects ahead of time for the scheduled exhibition on Friday.&lt;/p&gt;
+
+&lt;p&gt;This is how a Senior Web Developer who spent time with us, Rexford Nkansah put it.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Controlling an LED with a button press through the Raspberry Pi General-purpose input/output (GPIO) pins with the above code was fun.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As the LED goes on, the endless possibilities achievable with the Raspberry Pi kept popping up in our heads. Each nod by a student meant a light bulb in their mind came on. The experience was engaging and fun.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Writing basic Python code to turn our idea (turn on a light bulb by button press) into reality (light actually turned on) was priceless. As trivial as it seemed, the feeling and joy such an experience carried were more than words could describe.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Our understanding of the use of the breadboard meant we could build complex circuits using different sensors to achieve varied results. A firm grasp of the fundamentals was all that was needed, and the ideas started flowing.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;iftt&quot;&gt;IFTT&lt;/h2&gt;
+
+&lt;p&gt;The If This Then That event open source function was simply scintillating. In combination with our Raspberry Pi functionality, we could get emails sent after a button press.&lt;/p&gt;
+
+&lt;p&gt;Think of a panic button for your shop. Or the panic ‘word’, where a sensor would pick up your voice, and trigger an event.&lt;/p&gt;
+
+&lt;p&gt;In short, our ideas run wild. The practical understanding meant, we all took home a strong appreciation for what tech could help us all achieve.&lt;/p&gt;
+
+&lt;p&gt;This, was the project my team and I embarked upon, and an application, I am exploring for my website &lt;a href=&quot;http://www.healthylifegh.com/&quot; class=&quot;link&quot;&gt;http://www.healthylifegh.com&lt;/a&gt; I intend to have publications sent to all social media accounts of my budding organization that specializes in churning out health news from Ghana to the world.&lt;/p&gt;
+
+&lt;p&gt;Our project used all we had learned, wrote a code in python, used the If This Then That (IFTTT) function, and then had a circuit in place on our breadboard, in addition to others, connected to a sensor.&lt;/p&gt;
+
+&lt;p&gt;When the code is running, this is what the project would do:&lt;/p&gt;
+
+&lt;p&gt;The concept is this: When my door bell or button is pressed, check to see if I am around and light a bulb so I would know, there’s someone at the door.&lt;/p&gt;
+
+&lt;p&gt;If I am not in, send me an email so I would get to know, there’s someone at my door.&lt;/p&gt;
+
+&lt;p&gt;And it did just that.&lt;/p&gt;
+
+&lt;p&gt;As a person new to these, I have come to appreciate the world of code, open source applications and electronics.&lt;/p&gt;
+
+&lt;h2 id=&quot;at-the-end-of-the-program&quot;&gt;At the end of the program:&lt;/h2&gt;
+&lt;p&gt;Every student of the Tech Leads Ghana 2017 Summer Program in collaboration with IoT in Africa took home a Raspberry Pi Model 3, a 16 Gig SD Card, a micro USB charger brick and cable, a breadboard and an HDMI cable.&lt;/p&gt;
+
+&lt;p&gt;Priceless gift! A big thank you to Sam.&lt;/p&gt;
+
+&lt;p&gt;My application of the program is going to help me reach a larger audience than I used to with my health news.&lt;/p&gt;
+
+&lt;p&gt;My gift of the Raspberry is going to be used in my newly acquired office.&lt;/p&gt;
+
+&lt;p&gt;Thanks to you once again for the great door opened to me into the world of IT.&lt;/p&gt;
+
+&lt;p&gt;Koforidua Technical University, where it all happened, will certainly be a place to remember.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Thanks Synvalnus Gatorwu! The Global Code Summer Programme returns to Ghana in July 2018. You can help by &lt;a href=&quot;https://justgiving.com/GlobalCode&quot; class=&quot;link&quot;&gt;buying a Raspberry Pi as a gift to a student&lt;/a&gt;. Thanks!&lt;/p&gt;</content><author><name></name></author><summary type="html">(Our first programme was called “IoT in Africa” In this post, Global Coder Synvalnus Gatorwu describes his experiences on our 2017 Summer Programme)</summary></entry><entry><title type="html">GlobalPi: The Raspberry Pi as a teaching computer</title><link href="http://localhost:4000/2017/08/18/global-pi-the-raspberry-pi-as-a-teaching-computer.html" rel="alternate" type="text/html" title="GlobalPi: The Raspberry Pi as a teaching computer" /><published>2017-08-18T17:26:04+00:00</published><updated>2017-08-18T17:26:04+00:00</updated><id>http://localhost:4000/2017/08/18/global-pi-the-raspberry-pi-as-a-teaching-computer</id><content type="html" xml:base="http://localhost:4000/2017/08/18/global-pi-the-raspberry-pi-as-a-teaching-computer.html">&lt;p&gt;In July 2017, we ran our first Global Code Summer Programme. One of our challenges was finding the right platform for our students. We wanted everyone in the class to have the same opportunity to learn and grow, so it was important that we bring our own hardware, rather than using whatever was available. We also wanted the flexibility to teach what we wanted  – meaning an IoT-rich curriculum with plenty of coding time using industry-standard tools.&lt;/p&gt;
+
+&lt;p&gt;We chose the Raspberry Pi 3B, and this is why.&lt;/p&gt;
+
+&lt;h2 id=&quot;coding&quot;&gt;Coding&lt;/h2&gt;
+&lt;p&gt;The Raspberry Pi allowed us to dive straight into Linux and Python – the bedrock of our course and the balance of most of the teaching in week #1. Josh and I did all the setup ourselves on the Sunday before kick-off – plugging in, testing, installing Raspbian, then unplugging 30 Pis was the work of a couple of hours.&lt;/p&gt;
+
+&lt;p&gt;We don’t do holy wars: Linux is a battle-tested, widely-used OS and every Software Engineer should have a firm grounding in the shell, so we needed to spend a couple of days letting our students discover the terminal, filesystem, editors, and Python REPL. The Raspberry Pi allowed us to do all this without either repurposing whatever hardware the students owned, or supporting a bunch of different configurations in-class.&lt;/p&gt;
+
+&lt;p&gt;Finally, Raspbian comes pre-installed with a decent Terminal, some Python editors, and a Python 2.7 (remember, no holy wars) REPL – and a whole bunch of other useful stuff is available with a quick “apt-get”.&lt;/p&gt;
+
+&lt;h2 id=&quot;hardware&quot;&gt;Hardware&lt;/h2&gt;
+&lt;p&gt;The Pi is underpowered for any kind of heavy lifting – I run a tab-heavy Chrome which simply doesn’t fly here – but it’s great for the kind of work we do in class – editing and running Python, looking up documentation, and fooling around with the shell.&lt;/p&gt;
+
+&lt;p&gt;Two things that really stand out with the Pi, though –&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You can see the hardware. The 3B is about the size of a deck of cards – easily small enough to pick up and poke around on. They’re fairly robust so we didn’t use the cases we had in class – on day #1 we spent some time figuring out what all the components did, which really helped to demystify computing hardware.&lt;/li&gt;
+  &lt;li&gt;The GPIO pins really help to bridge the gap between programs running in a virtual world where stuff happens but really has no effect, and the physical world where lights flash and bells ring. Being able to extend your computing environment into the real world helped students feel like they really could solve real-world problems with computers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;availability&quot;&gt;Availability&lt;/h2&gt;
+&lt;p&gt;The Raspberry Pi foundation has a truly excellent distribution model, meaning their hardware is available globally, with a short lead time, for a reasonable price.&lt;/p&gt;
+
+&lt;p&gt;It was important to us to buy locally, for two reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Import and customs logistics is boring, and a place where we really add no value – a prime candidate for outsourcing,&lt;/li&gt;
+  &lt;li&gt;We’d much rather build a relationship with a local supplier and let them profit from doing the work.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We were lucky enough to find Isaac Sesi at &lt;a href=&quot;https://www.inventelectronics.com/&quot; class=&quot;link&quot;&gt;Invent Electronics&lt;/a&gt;, and took a trip up to Kumasi to pick up the 33 Raspberry Pi starter kits and 6 Arduino starter kits we’d ordered from him. Isaac is a mainstay of the local maker community, and he co-founded the &lt;a href=&quot;http://www.nsesafoundation.org/&quot; class=&quot;link&quot;&gt;Nsesa Foundation&lt;/a&gt;, a Ghanaian organisation which aims to inspire students to be innovative using science and technology. He’s top talent and we’re happy to partner with him.&lt;/p&gt;
+
+&lt;h2 id=&quot;portable&quot;&gt;Portable&lt;/h2&gt;
+&lt;p&gt;The Pi is tiny – it’s lightweight, comes with a screw-on case so you can throw it in your bag, and it’s low-powered so you can run it from a USB socket on the back of a PC (which is what we did). It’s great for teaching a student – but more importantly, for our purposes – it’s great for teaching 18 students! The Pi made our get-in cheap and easy.&lt;/p&gt;
+
+&lt;h2 id=&quot;downsides&quot;&gt;Downsides&lt;/h2&gt;
+&lt;p&gt;Whilst our decision was easy, there are a couple of practical downsides to the Raspberry Pi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;HDMI video&lt;/strong&gt; – is all that’s available. Because this is still a fairly new standard it’s difficult to find cheap HDMI monitors on the secondary market. Our labs had multi-input VGA/DVI-D monitors which meant we were able to use a passive HDMI/DVI-D adapter cable, but this is a potential issue in other cases. Similarly, many of our students don’t have HDMI kit at home, which limits their ability to continue learning out of class.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Digital GPIO&lt;/strong&gt; – unlike the Arduino Uno, say, the Raspberry Pi can only read digital in – which means the components you use must be set up specially if you need to read more than just 0’s and 1’s. This was fine for us but if you want to read the room temperature or humidity using commonly available components you’ll have to do some more work.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Global Code Summer Programme 2017 finished on July 28. We’ll be back in Ghana in 2018 – find out more on &lt;a href=&quot;https://twitter.com/glblcd&quot; class=&quot;link&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://instagram.com/glblcd&quot; class=&quot;link&quot;&gt;Instagram&lt;/a&gt;, or get in touch and &lt;a href=&quot;https://justgiving.com/GlobalCode&quot; class=&quot;link&quot;&gt;buy a Raspberry pi as a gift to a student&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">In July 2017, we ran our first Global Code Summer Programme. One of our challenges was finding the right platform for our students. We wanted everyone in the class to have the same opportunity to learn and grow, so it was important that we bring our own hardware, rather than using whatever was available. We also wanted the flexibility to teach what we wanted – meaning an IoT-rich curriculum with plenty of coding time using industry-standard tools.</summary></entry><entry><title type="html">Short projects: buy-in, energy, and the race to the finish</title><link href="http://localhost:4000/2017/08/16/short-projects-buy-in-energy-and-the-race-to-the-finish.html" rel="alternate" type="text/html" title="Short projects: buy-in, energy, and the race to the finish" /><published>2017-08-16T17:26:04+00:00</published><updated>2017-08-16T17:26:04+00:00</updated><id>http://localhost:4000/2017/08/16/short-projects-buy-in-energy-and-the-race-to-the-finish</id><content type="html" xml:base="http://localhost:4000/2017/08/16/short-projects-buy-in-energy-and-the-race-to-the-finish.html">&lt;p&gt;In the final week of our 3-week Summer Programme, we set our students the task of coming up with a group project, building it, and then presenting it to their faculty on graduation day. It’s a great learning experience, a little bit of pressure, but above all, it’s great fun.&lt;/p&gt;
+
+&lt;p&gt;Here’s how we do it.&lt;/p&gt;
+
+&lt;h2 id=&quot;groups&quot;&gt;Groups&lt;/h2&gt;
+&lt;p&gt;We work in groups of three. Group work is a great way to share knowledge but it can also introduce an admin burden best described in the classic Software Engineering text, the &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Mythical_Man-Month&quot; class=&quot;link&quot;&gt;Mythical Man Month&lt;/a&gt;. It’s tempting to think that larger groups will make your job as instructor easier, but it’s actually much harder: work grinds to a halt because of under-communication and personality clashes.&lt;/p&gt;
+
+&lt;p&gt;Three means that, on a small project with a tight, four-day turnaround, everyone has something to do.&lt;/p&gt;
+
+&lt;p&gt;Three is the magic number.&lt;/p&gt;
+
+&lt;h2 id=&quot;self-determination&quot;&gt;Self-determination&lt;/h2&gt;
+&lt;p&gt;We have the groups define their own projects. This is so important as it gives each student the immediate sense of buy-in that you otherwise couldn’t grow organically in such a short time.&lt;/p&gt;
+
+&lt;p&gt;In our summer programme in July 2017 we drew up a list of topics we’d already covered, as a reminder of what we knew and what was in scope. The project ideas that we ended up with for our Monday morning brainstorm were, without fail, tractable, relevant, and scope appropriate.&lt;/p&gt;
+
+&lt;h2 id=&quot;editing&quot;&gt;Editing&lt;/h2&gt;
+&lt;p&gt;Here’s where you come in, as an instructor – you know what can get done in four days (Monday – Thursday, with presentation and graduation on Friday), and you know, by now, what each team is capable of.&lt;/p&gt;
+
+&lt;p&gt;On Monday morning we went through each group as a class and discussed their proposals. Some groups had one, and one group had three different ideas for submission. All had the kernel of a great idea – “something we can work with”. It’s your job to guide the discussion towards a project you know will be successful. Here’s two writers tricks to help you:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Expand, then contract.&lt;/strong&gt; Don’t edit the ideas as soon as the come to you – encourage the group to grow their idea first, then trim. “What if we used IFTTT here?”; “would that work with ten sensors? A hundred?”; “What if we had a million dollars instead of none?” It’s a really fun exercise.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;“Yes, and”.&lt;/strong&gt; This classic improv ploy helps to keep the discussion hot. It’s a great way to encourage the growth mindset and prevents you or your students from shutting down ideas. The rule is simple: never say “no”, never say “but” – always say “yes, and…”.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;grind&quot;&gt;Grind&lt;/h2&gt;
+&lt;p&gt;That doesn’t really leave you with much time left! We had a hard deadline of Thursday at 4pm – when all the project work needed to be done, the room cleaned, and our patter prepared.&lt;/p&gt;
+
+&lt;p&gt;Your challenge now is to balance your time between finding incisive and relevant teaching opportunities and &lt;em&gt;getting out of the way&lt;/em&gt;. Here’s a few thoughts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Time management is hard.&lt;/strong&gt; There’ll be a rush at the end. Time pressure isn’t always a bad thing.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Project planning&lt;/strong&gt; is necessary, but you don’t have enough time to be explicit about it. You can help by teaching and applying some lightweight critical path analysis.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Teamwork&lt;/strong&gt; is probably a new thing. All our students are on slack on day #1, but in these small groups they’re all at the same desk. There’s no time for a leader, so it’s probably you.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Division of labour&lt;/strong&gt; isn’t natural yet. At one point in our 2017 project week, every group in the room was blocked on one of their group members, with the other two looking on hopefully. Talk about splitting up the work, wait for a bit, then when you come back and see that nothing’s changed, &lt;em&gt;assign tasks, Adam Smith&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I found that my Monday and Thursday were intensive, and my Tuesday and Wednesday were quieter – I was walking around every 50 or 60 minutes chivvying and questioning.&lt;/p&gt;
+
+&lt;h2 id=&quot;find-the-success&quot;&gt;Find the success&lt;/h2&gt;
+&lt;p&gt;Realistically, a four-day project build by an inexperienced group isn’t breaking barriers, but if you’ve been careful, your students will have built up a sense of ownership, creativity, and achievement – a &lt;em&gt;can-do attitude&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;It might well be the first time any of your students have &lt;em&gt;solved a problem&lt;/em&gt; using technology. That’s pretty incredible. So help your groups build the narrative around their solution – whatever they’ve come up with.&lt;/p&gt;
+
+&lt;p&gt;Here’s our projects from 2017:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;An MQTT system to take inputs from a number of distributed sensors and display them on an LCD screen&lt;/li&gt;
+  &lt;li&gt;A security system that will alert you when someone is at your door, by flashing a light if you’re home or emailing you if you’re away. The system uses a PIR to detect if you’re home.&lt;/li&gt;
+  &lt;li&gt;A device to allow a pregnant lady to press a button and alert the hospital when she goes into labour. A light on the device flashes when help is coming.&lt;/li&gt;
+  &lt;li&gt;A traffic lights system that lets more cars through when the lane is busy, and stops traffic if a motion detector detects a train, or a pedestrian presses a button.&lt;/li&gt;
+  &lt;li&gt;A button on a conference room table that alerts the speaker, by way of a message on an LCD screen, when a delegate has a question.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Global Code is growing! In 2018 we’ll teach 90 students in Ghana, and they all need a Raspberry Bi 3B. Get in touch if you can help us out.&lt;/p&gt;
+
+&lt;p&gt;Cheers
+Sam Moorhouse
+sam@globalcode.org.uk&lt;/p&gt;</content><author><name></name></author><summary type="html">In the final week of our 3-week Summer Programme, we set our students the task of coming up with a group project, building it, and then presenting it to their faculty on graduation day. It’s a great learning experience, a little bit of pressure, but above all, it’s great fun.</summary></entry></feed>

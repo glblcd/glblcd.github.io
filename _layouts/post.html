@@ -10,7 +10,7 @@ layout: default
 			<div class="container">
 				<div class="page__header__content">
 					<div class="page__header__content__inner" id='navConverter'>
-						<h1 class="page__header__title">Blog</h1>
+						<h1 class="page__header__title"><a href="/blog">Global Code Blog</a></h1>
 						<!--<p class="page__header__text">This is mostly a simple layout, rather than a complete page unlike the others. However this is a really useful starting point for anything you want to create.</p>-->
 					</div>
 				</div>
@@ -32,7 +32,7 @@ layout: default
                             {% if post.url == page.url %}
                             <a href="{{ post.url }}" class="vMenu--active">{{ post.title }}</a>
                             {% else %}
-                            <a href="{{ post.url }}">{{ post.title }}</a>
+                            <a href="{{ post.url }}" class="vMenu">{{ post.title }}</a>
                             {% endif %}
                             </li>
                         {% endfor %}
