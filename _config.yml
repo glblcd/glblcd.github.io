@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Global Code
-title_image: "https://globalcode.org.uk/assets/images/WEB/GC_Logo_artwork_RGB_org-URL_colour_WEB.png"
+title_image: "https://globalcode.org.uk/assets/images/SMALL/GC_Logo_artwork_RGB-ROUNDEL_colour_SMALL.png"
 email: info@globalcode.org.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Global Code delivers free, quality IT training to university students in West Africa and beyond!
