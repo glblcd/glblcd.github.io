@@ -43,8 +43,7 @@ tag: "Lamplighters is the invitation-only Global Code alumni program"
 			</div>
 			<div class="expanded__content">
 				<h2 class="expanded__title">Mentoring</h2>
-				<p class="expanded__text"><span class='stress'>Our program has matured, but the foundations are
-						strong.</span></p>
+				<p class="expanded__text"><span class='stress'>"Colleagues are a wonderful thing – but mentors, that's where the real work gets done!"</span></p>
 				<p class="expanded__text">Each Lamplighter is assigned a personal mentor, someone who is themselves a seasoned engineer. They can expect regular, focussed mentoring sessions on topics from programming to presentation skills.</p>
 				<p class="expanded__text">Every month, Lamplighters gather for an hour-long Google Hangout where an invited speaker presents a topic of interest. In the last year we've had industry experts talk about Machine Learning, cross-cultural work, functional programming, and "campus to corporate".</p>
 				<p class="expanded__text">Lamplighters are closely involved in the curriculum and organisation of Global Code. Lamplighters are responsible for Global Code applications and, and often travel to campuses to make the initial GC student pitch.</p>
