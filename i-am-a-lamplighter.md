@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: landing
 title:  "I am a Lamplighter"
 tag: "Lamplighters is the invitation-only Global Code alumni program"
 ---
