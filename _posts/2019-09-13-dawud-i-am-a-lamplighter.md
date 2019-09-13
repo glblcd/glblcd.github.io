@@ -7,6 +7,8 @@ author: "glblcd"
 image: "/assets/images/lamplighters/di-1.jpg"
 ---
 
+![Dawud Ibrahim](/assets/images/lamplighters/di-1.jpg "A Happy Dawud :)")
+
 I always knew I wanted to do software professionally but didn't know how until I joined Global Code in July 2018. It provided me with a lot of opportunities and a framework to realize my potentials and also to meet amazing people and find energy that I never knew I had. It was joyful to be part of the Global Code family last year and I have written my experiences in five sections, being a Global Coder, being a lamplighter, undergoing mentorship, coming back to Global Code as an instructor, and the future.
 
 ## Being a Global Coder
