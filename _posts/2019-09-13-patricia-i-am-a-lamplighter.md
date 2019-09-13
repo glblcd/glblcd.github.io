@@ -4,8 +4,10 @@ title:  "Guest post: Patricia Kasapa - The Journey So Far"
 date:   2019-07-09 15:00:04 +0000
 summary: "Another year, another program, and this time we're bigger and better than ever!"
 author: "glblcd"
-image: "/assets/images/1V2B7945.jpg"
+image: "/assets/images/lamplighters/pk-2.jpg"
 ---
+
+![Patricia Kasapa](/assets/images/lamplighters/pk-1.jpg "Patricia in class")
 
 Walking down the stairs with a beaming smile on my face, lots of questions raced in my head, as well: Questions that only I had the answers to, yet, nothing that came to mind seemed to be the best fit. I had just submitted my final project work documentation which my supervisor had already signed in my presence to show acceptance. Now, it was really over: my first degree was finally officially over; all the hustle had ended; the late-night wax burning had paid off – the apparent reason for the broad smile. 
 
@@ -20,6 +22,8 @@ He continued “What, at all, are you rushing home to go and do? This is an oppo
 --
 
 Those words hit me so hard that I couldn’t even rescue my mind anymore. I took out my phone typed the url into my browser and began the application process. Later that day, I met a few of my colleagues, gladly introduced the opportunity to them and all I got from them were, “So aren’t you tired of learning?”, “Sister, go home and get some rest”, “You are no longer a student, madam. Let the students have it”. I almost did not complete the application because I knew they were right and I wished I could just abandon it and walk away too but something in me just kept pushing the agenda like a due baby waiting to be born. 
+
+![Patricia Kasapa](/assets/images/lamplighters/pk-2.jpg "Patricia in class")
 
 In less than a week, after I had completed the application, the Global Code Summer Camp’18 team sent me an email to congratulate me for having been selected as one of the few students who successfully made it to the class. It was a mixed feeling I had: unhappy because I had to sit in a class to study again; joyous because if what I read from the notice was entirely true, then I was in to gain lots of experience on my hands which will give me a better advantage in the job market.
 
@@ -36,6 +40,8 @@ They went on to assign us to mentors, individually and organized monthly calls t
 To top it all, they dedicated all the Saturdays in July to train us as instructors for the Global Code Summer Camp’19. Now, about the camp, it was the toughest of all but they believed in us and still put us on the field with so much confidence. I joined my team during the second week when the advanced part of the camp had begun. Frankly speaking, the first day I attended the class, I couldn’t wait for us to close because despite all the training we had, I felt like I couldn’t meet the criteria of an instructor. This was because I happened to be in the midst of very experienced and seriously mind-blowing programmers as co-instructors.
 
 It was tough but they made me feel like I really did belong. They taught me to teach and treated me like a colleague: we had lots of fun together to the extent that I sincerely didn’t want it to end. It was quite an experience.
+
+![Patricia Kasapa](/assets/images/lamplighters/pk-3.jpg "Patricia in class")
 
 And then, within a few minutes, my billion-dollar question had been answered: they wanted to start a software development company in Ghana with us. We were the chosen foundation on which “<a class="link" href="//turntabl.io">turntabl</a>” was going to be built. Though it was an outstanding opportunity that they knew everyone offered that will just jump to grasp it immediately, they still gave us time to think about it, explore other options and choose <a class="link" href="//turntabl.io">turntabl</a> because we want to. That showed us how open and thoughtful they are.
 

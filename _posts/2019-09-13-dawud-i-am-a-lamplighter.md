@@ -4,7 +4,7 @@ title:  "Guest post: Dawud Ibrahim Ismail - On Becoming a Lamplighter"
 date:   2019-07-09 15:00:04 +0000
 summary: "Another year, another program, and this time we're bigger and better than ever!"
 author: "glblcd"
-image: "/assets/images/1V2B7945.jpg"
+image: "/assets/images/lamplighters/di-1.jpg"
 ---
 
 I always knew I wanted to do software professionally but didn't know how until I joined Global Code in July 2018. It provided me with a lot of opportunities and a framework to realize my potentials and also to meet amazing people and find energy that I never knew I had. It was joyful to be part of the Global Code family last year and I have written my experiences in five sections, being a Global Coder, being a lamplighter, undergoing mentorship, coming back to Global Code as an instructor, and the future.
@@ -15,7 +15,7 @@ I joined Global Code in July 2018 in UCC being skeptical that the promised of gi
 
 We had the final week of the camp to work on a project, after two weeks of Python programming, IoT, MQTT, Git/Github, GPIOs, Web Apps, Web APIs and Hosting Platforms. I worked in a team of four on a project we called Okro, which was a web app implementation of Benford's Law. It was a nice experience witnessing hands-on practical software engineering for the first time, beyond just Hello world programs. After the camp, I was chosen to be a lamplighter for a year.
 
-Lamplighters
+## Lamplighters
 
 I remember the next month after Global Code receiving an email from Sam Moorhouse, who by the way is a real Superman, has chosen me to be a lamplighter. The email was as simple as
 “Hi all, I hope you’re well! 
@@ -23,6 +23,8 @@ I remember the next month after Global Code receiving an email from Sam Moorhous
 > You’re receiving this because you’re one of the Global Code students James and I selected to work with in the future. I’ve added you to this mail group so I can keep in touch with you.”
 
 Over the course of the next 11 months, we’ll have monthly calls with Sam and James and in some cases, we’ll have external people engaging us for the hour we had monthly. We had a session on Presentation, Communication, how to succeed in the Corporate world, Deep learning, Programming concepts and plans for us as lamplighters among others. This was to better prepare us for work after school and in addition, we were all assigned mentors too.
+
+![Dawud Ibrahim](/assets/images/lamplighters/di-2.jpg "A Happy Dawud :)")
 
 ## Global Code Mentorship 
 
