@@ -29,7 +29,8 @@ tag: "Lamplighters is the invitation-only Global Code alumni program"
 				<h2 class="expanded__title">I am a Lamplighter</h2>
 				<p class="expanded__text">Lamplighters is the invitation-only Global Code alumni program.</p>
 				<p class="expanded__text">Started in 2018, the goal of Lamplighters is to identify the best and brightest of our Global Code students, and prepare them for jobs as brilliant software engineers.</p>
-				<p class="expanded__text">Lamplighters are usually in their final year of university.</p>
+				<p class="expanded__text">Lamplighters are usually in their final year of university.</p> 
+				<p class="expanded__text">You can read about Patricia's experience as a Lamplighter <a class="link" href="/2019/07/09/patricia-i-am-a-lamplighter.html">here</a></p>
 				<p></p>
 			</div>
 		</div>
@@ -62,6 +63,8 @@ tag: "Lamplighters is the invitation-only Global Code alumni program"
 				<h2 class="expanded__title">Teaching</h2>
 				<p class="expanded__text">Finally, Lamplighters have the opportunity to teach on Global Code, alongside the experts that we fly in each year. This is a unique opportunity to gain confidence, skill and experience, and a great way for them to give back to the programme.</p>
 				<p class="expanded__text">Each teaching candidate is placed in a rigorous "train-the-trainer" class to prepare them for class.</p>
+				<p class="expanded__text">You can read about Dawud's experience as a Lamplighter and teacher<a class="link" href="/2019/07/09/dawud-i-am-a-lamplighter.html">here</a></p>
+				</div>
 			</div>
 		</div>
 	</div>
