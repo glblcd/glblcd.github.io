@@ -23,7 +23,7 @@ tag: "Lamplighters is the invitation-only Global Code alumni program"
 	<div class="container">
 		<div class="expanded__inner">
 			<div class="expanded__media">
-				<img src="assets/images/building_blocks_n0nc.svg" class="expanded__image">
+				<img src="assets/images/lamplighters/anette.jpg" class="expanded__image">
 			</div>
 			<div class="expanded__content">
 				<h2 class="expanded__title">I am a Lamplighter</h2>
@@ -40,7 +40,7 @@ tag: "Lamplighters is the invitation-only Global Code alumni program"
 	<div class="container">
 		<div class="expanded__inner">
 			<div class="expanded__media">
-				<img src="assets/images/work_chat_erdt.svg" class="expanded__image">
+				<img src="assets/images/lamplighters/emerald.jpg" class="expanded__image">
 			</div>
 			<div class="expanded__content">
 				<h2 class="expanded__title">Mentoring</h2>
@@ -57,7 +57,7 @@ tag: "Lamplighters is the invitation-only Global Code alumni program"
 	<div class="container">
 		<div class="expanded__inner">
 			<div class="expanded__media">
-				<img src="assets/images/undraw_hello_aeia.svg" class="expanded__image">
+				<img src="assets/images/lamplighters/francis.jpg" class="expanded__image">
 			</div>
 			<div class="expanded__content">
 				<h2 class="expanded__title">Teaching</h2>
