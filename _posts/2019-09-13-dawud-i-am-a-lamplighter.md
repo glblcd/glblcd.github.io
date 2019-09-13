@@ -46,4 +46,4 @@ I had the opportunity to meet all the wonderful Global Coders from UCC this year
 
 ## The future ...
 
-I am really happy to be joining [turntabl](//turntabl.io) this October 2019 as an Associate Software Engineer and as my National Service, to work on my dream of becoming a world-class Software Engineer. I’m looking forward to coming back to a Global Code class next year and the coming years to teach and be more involved in the organization process to see it expand to more schools in Ghana and to other countries.
+I am really happy to be joining <a class="link" href="//turntabl.io">turntabl</a> this October 2019 as an Associate Software Engineer and as my National Service, to work on my dream of becoming a world-class Software Engineer. I’m looking forward to coming back to a Global Code class next year and the coming years to teach and be more involved in the organization process to see it expand to more schools in Ghana and to other countries.

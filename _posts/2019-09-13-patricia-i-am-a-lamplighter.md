@@ -37,8 +37,8 @@ To top it all, they dedicated all the Saturdays in July to train us as instructo
 
 It was tough but they made me feel like I really did belong. They taught me to teach and treated me like a colleague: we had lots of fun together to the extent that I sincerely didn’t want it to end. It was quite an experience.
 
-And then, within a few minutes, my billion-dollar question had been answered: they wanted to start a software development company in Ghana with us. We were the chosen foundation on which “[turntabl](//turntabl.io)” was going to be built. Though it was an outstanding opportunity that they knew everyone offered that will just jump to grasp it immediately, they still gave us time to think about it, explore other options and choose [turntabl](//turntabl.io) because we want to. That showed us how open and thoughtful they are.
+And then, within a few minutes, my billion-dollar question had been answered: they wanted to start a software development company in Ghana with us. We were the chosen foundation on which “<a class="link" href="//turntabl.io">turntabl</a>” was going to be built. Though it was an outstanding opportunity that they knew everyone offered that will just jump to grasp it immediately, they still gave us time to think about it, explore other options and choose <a class="link" href="//turntabl.io">turntabl</a> because we want to. That showed us how open and thoughtful they are.
 
-Being a lamplighter is one of the miracles I have seen manifest so clearly in my life. It has been an experience of a lifetime and I can’t wait for [turntabl](//turntabl.io) to be fully operational because from the little I’ve seen; it’s going to be a wonderful experience.
+Being a lamplighter is one of the miracles I have seen manifest so clearly in my life. It has been an experience of a lifetime and I can’t wait for <a class="link" href="//turntabl.io">turntabl</a> to be fully operational because from the little I’ve seen; it’s going to be a wonderful experience.
 
 I am and always will be a proud Lamplighter.
