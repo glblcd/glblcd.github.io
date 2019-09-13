@@ -63,8 +63,7 @@ tag: "Lamplighters is the invitation-only Global Code alumni program"
 				<h2 class="expanded__title">Teaching</h2>
 				<p class="expanded__text">Finally, Lamplighters have the opportunity to teach on Global Code, alongside the experts that we fly in each year. This is a unique opportunity to gain confidence, skill and experience, and a great way for them to give back to the programme.</p>
 				<p class="expanded__text">Each teaching candidate is placed in a rigorous "train-the-trainer" class to prepare them for class.</p>
-				<p class="expanded__text">You can read about Dawud's experience as a Lamplighter and teacher<a class="link" href="/2019/07/09/dawud-i-am-a-lamplighter.html">here</a></p>
-				</div>
+				<p class="expanded__text">You can read about Dawud's experience as a Lamplighter and teacher <a class="link" href="/2019/07/09/dawud-i-am-a-lamplighter.html">here</a></p>
 			</div>
 		</div>
 	</div>
